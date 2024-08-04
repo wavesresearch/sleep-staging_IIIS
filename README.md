@@ -2,15 +2,15 @@
 
 
 ```
-@article{moctezuma2023GRU,
+@article{moctezuma2024GRU,
   title={GRU-powered Sleep Stage Classification with Permutation-Based EEG Channel Selection},
   author={Moctezuma, Luis Alfredo and Suzuki, Yoko and Furuki, Junya and Molinas, Marta and Abe, Takashi},
-  journal={TODO},
-  volume={TODO},
-  number={TODO},
-  pages={TODO},
-  year={TODO},
-  publisher={TODO}
+  journal={Scientific reports},
+  volume={14},
+  number={1},
+  pages={17952},
+  year={2024},
+  publisher={Nature Publishing Group UK London}
 }
 ```
 
